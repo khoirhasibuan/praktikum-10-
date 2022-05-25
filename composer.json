@@ -1,0 +1,17 @@
+{
+    "name": "khoirhasibuan/praktikum-10",
+    "type": "project",
+    "authors": [
+        {
+            "name": "khoir",
+            "email": "khoiruddin.hasibuan.95@gmail.com"
+        }
+    ],
+    "require": {}
+
+     "autoload" : {
+         "psr-4" : {
+         "App\\" : "app/"
+         }
+    }
+}
